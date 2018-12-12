@@ -158,4 +158,4 @@ async def on_message(message):
         await client.send_message(message.channel,'Wassup')
     if message.content == 'how to use this':
         await client.send_message(message.channel,'type !chart (ICAO) it should work. If you face problems contact Ayaan Ahmad')
-client.run(os.getenv('TOKEN'))
+client.run('NTIyMDU0NzU2MDU5OTcxNTg0.DvLG2w.ja2yTVu2uHVJ1NIP4KrZs3CjQpk')
