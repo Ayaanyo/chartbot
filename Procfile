@@ -1,1 +1,1 @@
-worker: python Final Charts.py
+worker: python finalcharts.py
